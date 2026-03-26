@@ -247,7 +247,7 @@ a {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background-image: url('assets/hero-bg.png');
+    background-image: url('hero-bg.png');
     background-size: cover;
     background-position: center bottom;
     z-index: 1;
@@ -528,7 +528,7 @@ a {
    Why Partner
    ========================================================================== */
 .partner-section {
-    background: url('assets/hero-bg.png') center/cover fixed;
+    background: url('hero-bg.png') center/cover fixed;
     position: relative;
 }
 
